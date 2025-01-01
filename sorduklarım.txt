@@ -1,0 +1,3 @@
+
+eğer nn.module i encoder miras alıyor ise projede benden istenile do it from strach koşulunu sağlamış oluyor muyum?
+Tam bağlantılı katman (dense layer). demiş, tam bağlantılı katmanlara dense layer diyoruz, her bir nöronun bir önceki katmandaki tüm nöronlara bağlandığı anlamına gelir. ve dense layer olmayanlar  convoluitonal laer, sparse layer, recurrent layer gibi
