@@ -13,6 +13,15 @@ from torch.utils.data import DataLoader, random_split
 import matplotlib.pyplot as plt
 import os 
 
+# Set a fixed random seed
+seed = 42
+torch.manual_seed(seed)
+torch.backends.cudnn.deterministic = True
+torch.backends.cudnn.benchmark = False
+
+if torch.cuda.is_available():
+    torch.cuda.manual_seed_all(seed)
+    
 # Create an output folder for saving visualizations
 output_folder = "output"
 os.makedirs(output_folder, exist_ok=True)  # Ensure the folder exists
