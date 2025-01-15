@@ -62,6 +62,4 @@ Both visualizations are saved in the `output` folder.
 
 ## Author
 
-- Filiz Yıldız
-- Student ID: 704241029
-- Course: BLG527E Machine Learning
+It showcases a project personally developed by EonTechie as part of the BLG 527E - Machine Learning course at Istanbul Technical University (ITU). The work reflects individual effort and serves as a testament to the developer's learning journey and dedication to the subject.
