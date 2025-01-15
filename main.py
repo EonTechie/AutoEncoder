@@ -1,8 +1,4 @@
-"""
-Filiz Yıldız 
-704241029
-BLG527E Machine Learning 
-"""
+# GitHub: EonTechie
 
 # Import required libraries
 import torch
